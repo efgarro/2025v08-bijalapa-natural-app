@@ -1,6 +1,6 @@
 {
   "../../../~start/default-client-entry.tsx": {
-    "file": "assets/main-DEBTM99J.js",
+    "file": "assets/main-BFUJF3hg.js",
     "name": "main",
     "src": "../../../~start/default-client-entry.tsx",
     "isEntry": true,
@@ -14,7 +14,7 @@
     ],
     "assets": [
       "assets/styles-CgDFq7nl.css",
-      "assets/app-B5_xk0bH.css"
+      "assets/app-cZFBfO8n.css"
     ]
   },
   "C:/00-CodeShop/00-Sandbox-II/II-113-Start-Manual-Twind-CssM-Query/src/css/styles.css": {
@@ -22,11 +22,11 @@
     "src": "C:/00-CodeShop/00-Sandbox-II/II-113-Start-Manual-Twind-CssM-Query/src/css/styles.css"
   },
   "C:/00-CodeShop/00-Sandbox-II/II-113-Start-Manual-Twind-CssM-Query/src/styles/app.css": {
-    "file": "assets/app-B5_xk0bH.css",
+    "file": "assets/app-cZFBfO8n.css",
     "src": "C:/00-CodeShop/00-Sandbox-II/II-113-Start-Manual-Twind-CssM-Query/src/styles/app.css"
   },
   "src/routes/about.tsx?tsr-split=component": {
-    "file": "assets/about-CMNCII75.js",
+    "file": "assets/about-CNh6dvr3.js",
     "name": "about",
     "src": "src/routes/about.tsx?tsr-split=component",
     "isDynamicEntry": true,
@@ -35,7 +35,7 @@
     ]
   },
   "src/routes/deferred.tsx?tsr-split=component": {
-    "file": "assets/deferred-CqUEttrN.js",
+    "file": "assets/deferred-vGKrpMIF.js",
     "name": "deferred",
     "src": "src/routes/deferred.tsx?tsr-split=component",
     "isDynamicEntry": true,
@@ -44,7 +44,7 @@
     ]
   },
   "src/routes/index.tsx?tsr-split=component": {
-    "file": "assets/index-OVnyMjDK.js",
+    "file": "assets/index-JaZTUQRp.js",
     "name": "index",
     "src": "src/routes/index.tsx?tsr-split=component",
     "isDynamicEntry": true,

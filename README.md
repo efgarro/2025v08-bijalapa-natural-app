@@ -1,31 +1,54 @@
+# BijaLapa Natural Website
+
+This is the preview for the bijalapa.com website
+
+BijaLapa Natural is a eco-rural lodging located in the town of Bijagual, in the Central Pacific coast of Costa Rica. 
+
+## Technologies Used
+
+- Modern React
+- Typescript
+- Markdown (for written content)
+- Plain CSS / CSS Modules
+- TailwindCSS / daisyUI / Typography Plugin
+- Figma Design Tool
+- Tanstack Start for React / Vite
+- Tanstack React Router
+- Tanstack React Query (...yes I drank the kool-aid)
+- Cloudflare Workers
+- Axios HTTP Client
+- AWS SDK / S3-Client / Cloudflare R2 Object Storage
+
+- Zod Schema Validation
+- Immer for Inmutable State (if needed)
+- ExifReader
 
 ```
 BijaLapa Natural	
 
    View Rooms
-    Guarumo
-    Sunrise
+     Guarumo
+     Sunrise
 
    The Grounds	
-    The Yard
-    Meet Organic
-    Rural Work
+     The Yard
+     Ranch Area
+     Meet Organic
+     Rural Work
 
    Activities	
-
-	Local Restaurants
-	Hiking
-	Fogata Night
-	Visit La Poza
-	Visit Bijagual Waterfall
-	The Town of Bijagual and Sorroundings
-	Horseback Tours
-	Crocodile Tours (One-hour drive or less)
+	 Local Restaurants
+	 Hiking
+	 Fogata Night
+	 Hike to La Poza
+	 Hike to Bijagual Waterfall
+	 The Town of Bijagual and Sorroundings
+	 Horseback Tours
+	 Crocodile Tours (One-hour drive or less)
 		
    Scarlet Macaw Habitat Project
-
-	Wildlife Journal
-	One Hundred Trees a Year (and Counting)
+	 Wildlife Journal
+	 One Hundred Trees a Year (and Counting)
 
    Local Partners
 
@@ -42,6 +65,7 @@ Routes:
 
 /grounds <show photoStory>
 /grounds/yard
+/grounds/ranch
 /groungs/organic
 /grounds/work
 
