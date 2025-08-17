@@ -1,0 +1,58 @@
+{
+  "../../../~start/default-client-entry.tsx": {
+    "file": "assets/main-DEBTM99J.js",
+    "name": "main",
+    "src": "../../../~start/default-client-entry.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/routes/deferred.tsx?tsr-split=component",
+      "src/routes/about.tsx?tsr-split=component",
+      "src/routes/index.tsx?tsr-split=component"
+    ],
+    "css": [
+      "assets/styles-CgDFq7nl.css"
+    ],
+    "assets": [
+      "assets/styles-CgDFq7nl.css",
+      "assets/app-B5_xk0bH.css"
+    ]
+  },
+  "C:/00-CodeShop/00-Sandbox-II/II-113-Start-Manual-Twind-CssM-Query/src/css/styles.css": {
+    "file": "assets/styles-CgDFq7nl.css",
+    "src": "C:/00-CodeShop/00-Sandbox-II/II-113-Start-Manual-Twind-CssM-Query/src/css/styles.css"
+  },
+  "C:/00-CodeShop/00-Sandbox-II/II-113-Start-Manual-Twind-CssM-Query/src/styles/app.css": {
+    "file": "assets/app-B5_xk0bH.css",
+    "src": "C:/00-CodeShop/00-Sandbox-II/II-113-Start-Manual-Twind-CssM-Query/src/styles/app.css"
+  },
+  "src/routes/about.tsx?tsr-split=component": {
+    "file": "assets/about-CMNCII75.js",
+    "name": "about",
+    "src": "src/routes/about.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/deferred.tsx?tsr-split=component": {
+    "file": "assets/deferred-CqUEttrN.js",
+    "name": "deferred",
+    "src": "src/routes/deferred.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-OVnyMjDK.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ],
+    "css": [
+      "assets/index-89pAZCRU.css"
+    ]
+  }
+}
