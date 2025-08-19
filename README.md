@@ -2,7 +2,7 @@
 
 This is the preview for the bijalapa.com website
 
-BijaLapa Natural is a eco-rural lodging located in the town of Bijagual, in the Central Pacific coast of Costa Rica. 
+BijaLapa Natural is a eco-rural lodging located in the town of Bijagual, in the Central Pacific coast of Costa Rica.
 
 ## Technologies Used
 
@@ -24,19 +24,19 @@ BijaLapa Natural is a eco-rural lodging located in the town of Bijagual, in the 
 - ExifReader
 
 ```
-BijaLapa Natural	
+BijaLapa Natural Menu
 
    View Rooms
      Guarumo
      Sunrise
 
-   The Grounds	
+   The Grounds
      The Yard
      Ranch Area
      Meet Organic
      Rural Work
 
-   Activities	
+   Activities
 	 Local Restaurants
 	 Hiking
 	 Fogata Night
@@ -45,7 +45,7 @@ BijaLapa Natural
 	 The Town of Bijagual and Sorroundings
 	 Horseback Tours
 	 Crocodile Tours (One-hour drive or less)
-		
+
    Scarlet Macaw Habitat Project
 	 Wildlife Journal
 	 One Hundred Trees a Year (and Counting)
@@ -56,11 +56,11 @@ BijaLapa Natural
 
    About Us
 
-Routes: 
+Routes:
 
 / <show photoStory>
 /view-rooms <show photoStory>
-/view-rooms/guarumo 
+/view-rooms/guarumo
 /view-rooms/sunrise
 
 /grounds <show photoStory>
